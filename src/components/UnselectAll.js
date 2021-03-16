@@ -9,7 +9,7 @@ import Loader from './loader/loader';
 import Footer from './Footer/Footer';
 import Tabs from './tabs/tabs';
 import Button from 'react-bootstrap/Button'
-
+ /* eslint-disable */ 
 import {
     BrowserRouter as Router,
     Route,

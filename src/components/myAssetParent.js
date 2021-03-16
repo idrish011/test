@@ -13,6 +13,7 @@ import {
     Redirect,
     withRouter
 } from "react-router-dom";
+ /* eslint-disable */ 
 class ParentComponent extends Component {
     constructor(props) {
         super(props);

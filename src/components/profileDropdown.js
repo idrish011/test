@@ -8,7 +8,7 @@ import {
     Redirect,
     withRouter
 } from "react-router-dom";
-
+ /* eslint-disable */ 
 class profilePanel extends Component {
     constructor(props) {
         super(props);

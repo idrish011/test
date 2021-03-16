@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Col from 'react-bootstrap/Col';
 import axios from 'axios';
+ /* eslint-disable */ 
 class ParentComponent extends Component {
     constructor(props) {
         super(props);

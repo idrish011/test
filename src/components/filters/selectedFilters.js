@@ -3,6 +3,7 @@ import Form from 'react-bootstrap/Form';
 import ListGroup from 'react-bootstrap/ListGroup';
 import axios from 'axios';
 import './index.css';
+ /* eslint-disable */ 
 export class selectFilter extends Component {
     constructor(props, context) {
         super(props, context);

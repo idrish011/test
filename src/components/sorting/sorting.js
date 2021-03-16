@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Dropdown from 'react-bootstrap/Dropdown'
 import axios from 'axios';
 import './index.css';
-
+ /* eslint-disable */ 
 export class Sorting extends Component {
     
   render() {

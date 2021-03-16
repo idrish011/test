@@ -12,7 +12,7 @@ import Alert from 'react-bootstrap/Alert';
 import Button from 'react-bootstrap/Button';
 import ButtonGroup from 'react-bootstrap/ButtonGroup';
 
-
+ /* eslint-disable */ 
 import {
     BrowserRouter as Router,
     Route,

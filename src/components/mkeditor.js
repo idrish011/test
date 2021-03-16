@@ -11,6 +11,7 @@ import {
 import Form  from 'react-bootstrap/Form';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+ /* eslint-disable */ 
 class AssetDetails extends Component {
     constructor(props) {
         super(props);

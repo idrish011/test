@@ -6,7 +6,7 @@ import Image from 'react-bootstrap/Image';
 import Moment from 'react-moment';
 import SelectALL from '../selectAll';
 import SelectALLWin from '../selectAllWins';
-
+ /* eslint-disable */ 
 import axios from 'axios';
 import {
     BrowserRouter as Router,

@@ -18,6 +18,7 @@ import { Header } from './Header';
 // import SORTBY from "./sortBy";
 // import DIALOG from './dialog';
 // import CREATEDD from './createdropdown';
+ /* eslint-disable */ 
 class MobReportComponent extends Component {
   constructor(props) {
     super(props);

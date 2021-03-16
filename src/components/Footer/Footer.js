@@ -3,7 +3,7 @@ import './index.css';
 import Row  from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import axios from 'axios';
-
+ /* eslint-disable */ 
 export class Footer extends Component {
   constructor(props) {
     super(props);

@@ -13,7 +13,7 @@ import Button from 'react-bootstrap/Button';
 import ButtonGroup from 'react-bootstrap/ButtonGroup';
 import ReactMarkdown from  'react-markdown';
 
-
+ /* eslint-disable */ 
 import {
     BrowserRouter as Router,
     Route,

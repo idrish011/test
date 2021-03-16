@@ -17,6 +17,7 @@ import { Link, Redirect } from "react-router-dom";
 import SORTBY from "./sortBy";
 import DIALOG from './dialog';
 import CREATEDD from './createdropdown';
+ /* eslint-disable */ 
 class ParentComponent extends Component {
     constructor(props) {
         super(props);

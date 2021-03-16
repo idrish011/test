@@ -7,7 +7,7 @@ import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
 import Moment from 'react-moment';
 import axios from 'axios';
-
+ /* eslint-disable */ 
 import Tabs from 'react-bootstrap/Tabs'
 import Tab from 'react-bootstrap/Tab';
 import ButtonToolbar from 'react-bootstrap/ButtonToolbar';

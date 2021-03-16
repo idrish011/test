@@ -14,6 +14,7 @@ import {
     Redirect,
     withRouter
 } from "react-router-dom";
+ /* eslint-disable */ 
 export class ImageCard extends Component {
     state = {
         WinStoryDataLive: [], WinStoryUnderReview: [], PendingRectification: [], WinStoryRejected: [],

@@ -3,7 +3,7 @@ import './index.css';
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 import axios from 'axios';
-
+ /* eslint-disable */ 
 export class Search extends Component {
   constructor() {
     super();

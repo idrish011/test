@@ -14,7 +14,7 @@ import {
 } from "react-router-dom";
 import Loader from './loader/loader';
 import Footer from './Footer/Footer';
-
+ /* eslint-disable */ 
 class ParentComponent extends Component {
     constructor(props) {
         super(props);

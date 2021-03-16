@@ -11,7 +11,7 @@ import Form from 'react-bootstrap/Form';
 import Loader from './loader/loader';
 import Footer from './Footer/Footer';
 import Button from 'react-bootstrap/Button'
-
+ /* eslint-disable */ 
 import {
     BrowserRouter as Router,
     Route,

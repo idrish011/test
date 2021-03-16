@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+ /* eslint-disable */ 
 class SelecetAll extends Component {
     constructor(props) {
         super(props);
