@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Header } from './Header';
-
+ /* eslint-disable */ 
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import { Search } from './search/Search';
