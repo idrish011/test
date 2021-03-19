@@ -11,7 +11,7 @@ pipeline {
         }
          stage('Deliver') {
             steps {
-                sh '/scripts/deliver.sh'
+                sh '/Scripts/deliver.sh'
                 input message: 'Finished using the web site? (Click "Proceed" to continue)'
             }
         }
