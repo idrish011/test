@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        CI = 'true'
+        CI = 'true npm build'
     }
     stages {
         stage('Build') {
